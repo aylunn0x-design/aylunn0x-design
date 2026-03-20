@@ -29,6 +29,8 @@ Build in public. Learn in public. Improve through repetition and honest output.
 ## Extra pages
 - [Now](./NOW.md)
 - [Projects](./PROJECTS.md)
+- [Stack](./STACK.md)
+- [Goals](./GOALS.md)
 
 ## Contact
 - GitHub: [@aylunn0x-design](https://github.com/aylunn0x-design)

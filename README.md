@@ -2,21 +2,29 @@
 
 Aspiring CS student from Ulaanbaatar building projects in public.
 
-## What I'm focused on (2026)
-- Shipping real-world CS projects
-- Preparing strong US/LA CS applications
-- Building consistency: code + writeups every week
+## Focus (2026)
+- ship real-world CS projects
+- build stronger problem-solving fundamentals
+- prepare stronger US / LA CS applications
+- stay consistent with code, writing, and public proof of work
 
-## Featured Repos
+## Featured repos
 - [sat-prep-copilot](https://github.com/aylunn0x-design/sat-prep-copilot) — AI-powered SAT prep assistant
-- [cs-build-log](https://github.com/aylunn0x-design/cs-build-log) — weekly progress + lessons learned
-- [dsa-grind](https://github.com/aylunn0x-design/dsa-grind) — algorithm practice with explanations
+- [cs-build-log](https://github.com/aylunn0x-design/cs-build-log) — weekly build logs and lessons learned
+- [dsa-grind](https://github.com/aylunn0x-design/dsa-grind) — DSA practice with explanations and patterns
+- [backend-monorepo](https://github.com/aylunn0x-design/backend-monorepo) — trading / paper-trading backend and web stack
 
-## Tech I'm using
+## What I’m building toward
+- stronger engineering taste
+- better systems and discipline
+- standout CS admissions profile
+- real products, not just tutorial projects
+
+## Tech
 `TypeScript` `Python` `React` `Node.js` `PostgreSQL`
 
-## Current goal
-Ship consistently enough that admission officers can clearly see trajectory, grit, and engineering growth.
+## Current philosophy
+Build in public. Learn in public. Improve through repetition and honest output.
 
 ## Contact
 - GitHub: [@aylunn0x-design](https://github.com/aylunn0x-design)

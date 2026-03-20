@@ -26,6 +26,10 @@ Aspiring CS student from Ulaanbaatar building projects in public.
 ## Current philosophy
 Build in public. Learn in public. Improve through repetition and honest output.
 
+## Extra pages
+- [Now](./NOW.md)
+- [Projects](./PROJECTS.md)
+
 ## Contact
 - GitHub: [@aylunn0x-design](https://github.com/aylunn0x-design)
 - Location: Ulaanbaatar, Mongolia

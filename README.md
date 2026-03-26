@@ -31,6 +31,7 @@ Build in public. Learn in public. Improve through repetition and honest output.
 - [Projects](./PROJECTS.md)
 - [Stack](./STACK.md)
 - [Goals](./GOALS.md)
+- [Repo Direction](./README_STATS.md)
 
 ## Contact
 - GitHub: [@aylunn0x-design](https://github.com/aylunn0x-design)
